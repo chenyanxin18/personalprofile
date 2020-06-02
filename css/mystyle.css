@@ -1,0 +1,42 @@
+body {
+    cursor: url("../images/1.ico") 16 16,auto;
+}
+.top-nav .menu .navbar a{
+    cursor: url("../images/2.cur") 16 16,auto;
+}
+.banner-info {
+    background:url(../images/bgc1.png) no-repeat center 0px ;
+    background-attachment:fixed;
+	-webkit-background-size:cover;
+	background-size:cover;
+	-moz-background-size:cover;
+    position: relative;
+    height: 580px;
+}
+/* .container {
+    background:url(../images/bgc1.png) no-repeat center 0px ;
+	-webkit-background-size:cover;
+	background-size:cover;
+	-moz-background-size:cover;
+	position: relative;
+} */
+.top-nav {
+    z-index: 99999999999999;
+    width: 100%;
+}
+ul.address li ul.address-text li {
+    color: #000;
+}
+ul.address li ul.address-text li a {
+    color: #000;
+}
+.header-right h1 {
+    color: #000;
+}
+
+.grid .figcaption {
+        padding: 0em 1.5em;
+}
+.grid .figcaption p{
+    padding: 0;
+}
